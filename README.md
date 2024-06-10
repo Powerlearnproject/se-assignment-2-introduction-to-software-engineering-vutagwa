@@ -246,6 +246,15 @@ Software Maintenance involves the modification and updating of software after it
   - Quality Assurance and Testing: Implement rigorous testing processes to ensure software reliability and performance.
   - User-Centric Design: Design software with the user’s needs, preferences, and autonomy in mind.
   - Responsibility and Accountability: Establish clear lines of accountability within development teams and organizations.
+ 
+    # references
+Editorial Team. (2024, February 7). Software development ethics: Navigating moral dilemmas in tech. SkillReactor Blog. https://www.skillreactor.io/blog/software-development-ethics-navigating-moral-dilemmas-in-tech/
+
+Software development life cycle (SDLC). (2023, September 20). GeeksforGeeks. https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+
+Software engineering | Software maintenance. (2023, July 27). GeeksforGeeks. https://www.geeksforgeeks.org/software-engineering-software-maintenance/
+
+What is software testing? (2023, October 7). GeeksforGeeks. https://www.geeksforgeeks.org/software-testing-basics/  
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
